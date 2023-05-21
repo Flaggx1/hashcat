@@ -88,7 +88,7 @@ static const char grp_op_pos_pos1[] =
 
 static const char grp_pos[] =
 {
-  '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B'
+  '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'
 };
 
 bool class_num (const u8 c)
